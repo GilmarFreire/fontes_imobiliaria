@@ -1,0 +1,16 @@
+/* SECTION TOP */
+
+.top{
+    text-align: center;
+}
+
+.navBar{
+    padding-bottom: 35px;
+}
+
+.navBar a{
+    font-size: 30px;
+    color:blue;
+    padding:30px;    
+    text-decoration: none;
+}

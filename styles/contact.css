@@ -1,0 +1,42 @@
+/*SECTION CONTACT*/
+
+#contact{
+    background-color: royalblue;
+    padding: 50px;
+}
+
+#contact h2{
+    margin-bottom: 30px;
+    color: white;
+}
+
+#contact iframe{
+    width: 80%;
+}
+#contact p{
+    margin-top: 35px;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.70);
+    padding: 20px;
+}
+
+#contact ul{
+    font-size: 25px;
+    margin-top: 40px;
+    
+}
+
+#contact li{
+    text-align: center;
+    list-style: none;
+    padding: 15px;
+    
+}
+
+#contact a{
+    color: blue;
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+}

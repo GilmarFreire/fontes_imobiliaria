@@ -1,0 +1,28 @@
+/* SECTION ABOUT */
+
+#about{
+    margin-bottom: 50px;
+}
+
+#about h1{
+    font-size: 40px;
+    
+}
+
+#about h2 {
+    color: blue;
+    font-size: 27px;
+}
+#about img{
+    width: 500px;
+}
+
+.paragrafo-abolt{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text-destaque-about{
+    color: blue;
+}

@@ -1,0 +1,10 @@
+/* SECTION BANNER */
+
+.banner{
+    text-align: center;
+    background-color: white;
+}
+.banner img{
+    margin: 50px;
+    width: 85%;
+}
