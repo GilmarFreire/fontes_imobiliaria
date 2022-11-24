@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;    
+}
+
+body{
+    background-color: #87CEFA;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* SECTION TOP */
+
+.top{
+    text-align: center;
+}
+
+.navBar{
+    padding-bottom: 35px;
+}
+
+.navBar a{
+    font-size: 30px;
+    color:blue;
+    padding:30px;    
+    text-decoration: none;
+}
+
+/* SECTION BANNER */
+
+.banner{
+    text-align: center;
+    background-color: white;
+}
+.banner img{
+    margin: 50px;
+    width: 85%;
+}
+
+/* SECTION ABOUT */
+
+#about{
+    margin-bottom: 50px;
+}
+
+#about h1{
+    font-size: 40px;
+    
+}
+
+#about h2 {
+    color: blue;
+    font-size: 27px;
+}
+#about img{
+    width: 500px;
+}
+
+.paragrafo-abolt{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text-destaque-about{
+    color: blue;
+}
+
+/* SECTION SERVICES */
+
+#services{
+    background-color: royalblue;
+    color: white;    
+    padding: 55px;
+}
+#services h2{
+    margin-bottom: 35px;    
+}
+
+#services p{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 2em;
+}
+
+#services span{
+    color: yellow;
+}
+#services ul{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 50%;
+    margin-right: 100px;
+}
+
+#services ul li{
+    padding: 15px;
+    text-align: justify;
+}
+
+/*SECTION BROKERS*/
