@@ -9,8 +9,12 @@
 }
 
 .navBar a{
-    font-size: 30px;
-    color:blue;
-    padding:30px;    
+    font-size: 15px;
+    color:white;
+    padding:8px;
+    margin-right: 30px;    
     text-decoration: none;
-}
+    border-radius: 25px;
+    background-color: blue;
+    font-weight: 300;
+}   
